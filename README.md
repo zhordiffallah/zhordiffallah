@@ -1,10 +1,8 @@
 ![sean-sinclair-FQ7cRFUU1y0-unsplash](https://github.com/zhordiffallah/zhordiffallah/assets/24955761/e762c93e-f725-4e9c-a85a-9a2bb2919832)
 
-### Hi there 👋
+### Hi there, I'm Zhor Diffallah! 👋
 
-# Hello, I'm Zhor Diffallah! 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=[zhordiffallah]&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=zhordiffallah&color=blueviolet)
 
 I'm a dedicated researcher with a keen interest in the intricacies of sound and audio processing. My endeavors in the world of research revolve around leveraging limited labeled data and maximizing the potential of semi-supervised techniques. 
 
@@ -26,5 +24,5 @@ I'm a dedicated researcher with a keen interest in the intricacies of sound and 
 - **Techniques**: Teacher-student learning, Genetic Algorithms.
 - **Tools & Libraries**: PyTorch, Google Colaboratory, Python Programming, Fastai, LibROSA 
 
-[![Zhor Diffallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=[zhordiffallah]&show_icons=true&theme=radical)]
+[![Zhor Diffallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhordiffallah&show_icons=true&theme=radical)]
 
