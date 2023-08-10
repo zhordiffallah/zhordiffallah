@@ -1,6 +1,6 @@
 ![sean-sinclair-FQ7cRFUU1y0-unsplash](https://github.com/zhordiffallah/zhordiffallah/assets/24955761/e762c93e-f725-4e9c-a85a-9a2bb2919832)
 
-### Hi there, I'm Zhor Diffallah! 👋
+### Hi there! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zhordiffallah&color=blueviolet)
 
