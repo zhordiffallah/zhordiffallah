@@ -1,5 +1,4 @@
-
-![sean-sinclair-FQ7cRFUU1y0-unsplash](https://github.com/zhordiffallah/zhordiffallah/assets/24955761/2d4a89c3-d284-45af-b874-bdb2d61709f9)
+![sean-sinclair-FQ7cRFUU1y0-unsplash](https://github.com/zhordiffallah/zhordiffallah/assets/24955761/e762c93e-f725-4e9c-a85a-9a2bb2919832)
 
 ### Hi there 👋
 
@@ -16,10 +15,9 @@ I'm a dedicated researcher with a keen interest in the intricacies of sound and 
 
 ## 📫 Reach Out:
 
-- **LinkedIn**: [Your_LinkedIn](https://linkedin.com/in/[Your_LinkedIn_Username])
-- **Twitter**: [@Your_Twitter](https://twitter.com/[Your_Twitter_Handle])
-- **Email**: [Your_Email@example.com](mailto:Your_Email@example.com)
-- **GitHub**: [Your_GitHub](https://github.com/[zhordiffallah])
+- **LinkedIn**: 
+- **Email**: mailto:zhor.diffallah@gmail.com
+- **GitHub**: https://github.com/[zhordiffallah]
 
 ## 🚀 Technical Intricacies:
 
@@ -28,5 +26,5 @@ I'm a dedicated researcher with a keen interest in the intricacies of sound and 
 - **Techniques**: Teacher-student learning, Genetic Algorithms.
 - **Tools & Libraries**: PyTorch, Google Colaboratory, Python Programming, Fastai, LibROSA 
 
-[![Zhor Diffallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=[zhordiffallah]&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Zhor Diffallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=[zhordiffallah]&show_icons=true&theme=radical)]
 
