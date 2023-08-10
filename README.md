@@ -14,8 +14,8 @@ I'm a dedicated researcher with a keen interest in the intricacies of sound and 
 ## 📫 Reach Out:
 
 - **LinkedIn**: 
-- **Email**: mailto:zhor.diffallah@gmail.com
-- **GitHub**: https://github.com/[zhordiffallah]
+- **Email**: zhor.diffallah@gmail.com
+- **GitHub**: https://github.com/zhordiffallah
 
 ## 🚀 Technical Intricacies:
 
