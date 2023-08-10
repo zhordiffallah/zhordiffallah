@@ -24,5 +24,5 @@ I'm a dedicated researcher with a keen interest in the intricacies of sound and 
 - **Techniques**: Teacher-student learning, Genetic Algorithms.
 - **Tools & Libraries**: PyTorch, Google Colaboratory, Python Programming, Fastai, LibROSA 
 
-[![Zhor Diffallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhordiffallah&show_icons=true&theme=radical)]
+
 
